@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  align-items: center;
+  flex: auto;
+}
+div {
+  color: black;
+  background-color: aqua;
+  size: 100%;
+  display: flex;
+  justify-content: center;
+}
+#caixa{
+    background-color: aliceblue;
+    
+    min-width: 100vw;
+    min-height: 10vh;
+    
+
+
+}
